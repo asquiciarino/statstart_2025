@@ -8,4 +8,4 @@ We then turned the binary protein contact matrix into a network-style graph.
 We have created heatmaps from continuous distance matrices, contact maps from binary adjacency matrices, and networks from those same binary matrices. 
 
 ### Acknowedgements
-StatStart 2025, Mentor 
+StatStart 2025, Mentor Mohammad Haddadnia
