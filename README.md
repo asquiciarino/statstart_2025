@@ -19,13 +19,13 @@ Protein structure can be categorized into:
 - **Tertiary**: Overall 3D structure of one chain
 - **Quaternary**: Assembly of multiple polypeptide chains
 
-Rather than working directly with 3D models, this project converts structural data into **2D matrices** to simplify analysis and highlight biologically meaningful relationships.
+Rather than working directly with 3D models, we converted structural data into **2D matrices** to simplify analysis and highlight biologically meaningful relationships.
 
 ---
 
 ## What Does the Code Do?
 
-This R code performs the following steps:
+Our R code performs the following steps:
 
 1. **Reads PDB files** using the `bio3d` package.
 2. **Calculates pairwise Euclidean distances** between amino acids.
@@ -67,5 +67,5 @@ This R code performs the following steps:
 This project was created during the [StatStart 2025](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.  
 Special thanks to our mentor Mohammad Haddadnia for his guidance and feedback.
 
-> Collaborators: [@malihaparmar](https://github.com/malihaparmar), [@averysquiciarino](https://github.com/YOUR-USERNAME)
+> Collaborators: [@malihaparmar](https://github.com/malihaparmar), [@averysquiciarino](https://github.com/asquiciarino)
 
