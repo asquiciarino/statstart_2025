@@ -67,5 +67,5 @@ Our R code performs the following steps:
 This project was created during the [StatStart 2025](https://hsph.harvard.edu/fellowship-special-program/statstart/) summer program.  
 Special thanks to our mentor Mohammad Haddadnia for his guidance and feedback.
 
-> Collaborators: [@malihaparmar](https://github.com/malihaparmar), [@averysquiciarino](https://github.com/asquiciarino)
+> Collaborators: [@malihaparmar](https://github.com/malihaparmar), [@asquiciarino](https://github.com/asquiciarino)
 
